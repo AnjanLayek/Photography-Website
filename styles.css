@@ -1,1 +1,39 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: grey;
+    border: 1px wheat;
+}
+.Homepage-Text{
+    width: 40%;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.side-img{
+    width:70%;
 
+}
+#Homepage{
+    display: flex;
+}
+img,video{
+    width: 100%;
+}
+#my-work{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+#text-id{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
+#img-1,#video-1{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#end-page{
+    text-align: center;
+}
